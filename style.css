@@ -46,8 +46,9 @@
 	color:#dc3545 ;
 }
 .fa-solid{
-	margin: 3% 2%;
-	color: white;
+	font-size: 3rem;
+	margin: 10%;
+	color:#dc3545 ;
 }
 .about-cont:hover{
 	transition: 1s;
