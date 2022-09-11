@@ -95,7 +95,7 @@ footer{
 	color: white;
 	background:#dc3545 ;
 }
-footer .fa-brands{
+footer .fa-brands,.fa-regular{
 	margin: 3% 2%;
 	color: white;
 }
